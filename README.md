@@ -1,5 +1,6 @@
 **Online Food Ordering System**
 A simple Java web application that allows users to browse food items, add food to cart, and place food orders online. Built with Java Servlet, JSP, HTML, CSS, JavaScript, and MySQL.
+
 **Features:**
 - User Registration & Login
 - View Food Menu
@@ -12,6 +13,7 @@ A simple Java web application that allows users to browse food items, add food t
 - Admin Food Management
 - Order Status Management
 - Database Connectivity
+
  **Tech Stack:**
 - Frontend: JSP, HTML, CSS, JavaScript
 - Backend: Java Servlet
