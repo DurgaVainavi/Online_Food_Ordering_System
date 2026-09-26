@@ -18,6 +18,7 @@ A simple Java web application that allows users to browse food items, add food t
 - Database: MySQL
 - Server: Apache Tomcat
 - IDE: Eclipse
+
   ** How to Run:**
   
 1. Clone this repository
