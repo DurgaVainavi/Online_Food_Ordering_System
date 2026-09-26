@@ -12,7 +12,7 @@ A simple Java web application that allows users to browse food items, add food t
 - View My Orders
 - Admin Food Management
 - Order Status Management
-- Database Connectivity
+  
 
  **Tech Stack:**
 - Frontend: JSP, HTML, CSS, JavaScript
