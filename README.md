@@ -21,7 +21,7 @@ A simple Java web application that allows users to browse food items, add food t
 - Server: Apache Tomcat
 - IDE: Eclipse
 
-  ** How to Run:**
+  ### How to Run:
   
 1. Clone this repository
 2. Import as Dynamic Web Project in Eclipse
